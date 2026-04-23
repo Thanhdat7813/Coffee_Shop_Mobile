@@ -20,10 +20,10 @@ Dữ liệu sản phẩm được tải từ file **data.json**.
 ## 🖼️ Kết quả demo
 
 ### 🔹 Onboarding Screen
-<img width="858" height="1908" alt="onboarding" src="https://github.com/user-attachments/assets/da865c41-2ac5-4332-9707-d8fb5227dfde" />
+<img width="300" alt="onboarding" src="https://github.com/user-attachments/assets/da865c41-2ac5-4332-9707-d8fb5227dfde" />
 
 ### 🔹 Home Screen
-<img width="858" height="1908" alt="home" src="https://github.com/user-attachments/assets/cced4b2d-d711-420d-8338-e470002c020e" />
+<img width="300" alt="home" src="https://github.com/user-attachments/assets/cced4b2d-d711-420d-8338-e470002c020e" />
 
 ### 🔹 Detail Item Screen
-<img width="858" height="1908" alt="detailitem" src="https://github.com/user-attachments/assets/07c6fabd-e31d-489e-a079-233ca6862d2f" />
+<img width="300" alt="detailitem" src="https://github.com/user-attachments/assets/07c6fabd-e31d-489e-a079-233ca6862d2f" />
